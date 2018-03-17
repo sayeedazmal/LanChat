@@ -1,0 +1,13 @@
+com.ui.ChatFrame$8
+com.ui.ChatFrame$9
+com.ui.ChatFrame$6
+com.ui.ChatFrame$7
+com.ui.ChatFrame$4
+com.ui.ChatFrame$5
+com.ui.ChatFrame$2
+com.ui.ChatFrame$3
+com.ui.ChatFrame$10
+com.ui.ChatFrame$1
+com.ui.ChatFrame$11
+com.ui.ChatFrame$12
+com.ui.ChatFrame
